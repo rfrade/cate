@@ -1,0 +1,11 @@
+Package: cate
+Type: Package
+Title: Estimates the Conditional Average Treatment Effect
+Version: 0.1.0
+Author: Rafael Frade
+Maintainer: rafaelfrade@live.com
+Description: Estimates the CATE of a continuous covariate as 
+in Abrevaya, J., Hsu, Y. C., & Lieli, R. P. (2015)
+License: MIT
+Encoding: UTF-8
+LazyData: true
